@@ -12,12 +12,21 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <summary lang="en">View photos from http://500px.com.</summary>
+    <summary lang="zh_TW">到 http://500px.com. 欣賞照片</summary>
     <description lang="en">
       View photos from http://500px.com.
 
 This addon was created by Patrick L Archibald (PLA), with contributions by Clément MATHIEU, Marian Flor, and Snorre Løvås.
 
 The source for this addon can be found at https://github.com/pla1/plugin.image.500px.
+    </description>
+    <description lang="zh_TW">
+	
+      到 http://500px.com. 欣賞照片
+
+這個附加組件是由 帕特里克·阿奇博爾德大 (PLAY) 所創建的，由克萊門特 MATHIEU，瑪麗安弗洛爾和 Snorre 洛瓦斯貢獻。
+
+此附加組件的源代碼可以在這裡找到 https://github.com/pla1/plugin.image.500px.
     </description>
     <license>GPL 2.0</license>
     <language>en</language>
